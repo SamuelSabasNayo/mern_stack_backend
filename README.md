@@ -3,17 +3,12 @@
 [![Coverage Status](https://coveralls.io/repos/github/key-joshua/Ksdacllp-Backend/badge.svg?branch=develop)](https://coveralls.io/github/key-joshua/Ksdacllp-Backend?branch=develop)
 [![Maintainability](https://api.codeclimate.com/v1/badges/46ec829a6c58d122a657/maintainability)](https://codeclimate.com/github/key-joshua/Ksdacllp-Backend/maintainability)
 
-# FRONTEND CHALLEGE
-
-- This Backend Challenge
 
 #### This is the Hosted link of the backend challenge [Access endpoint Direct]
 
-https://ksdacllp-backend.herokuapp.com
 
 #### This is the Github repository link of the backend repo 
 
-https://github.com/key-joshua/Ksdacllp-Backend
 
 <br>
 
