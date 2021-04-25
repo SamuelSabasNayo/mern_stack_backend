@@ -10,8 +10,6 @@
 #### This is the Github repository link of the backend repo 
 
 
-<br>
-
 ## Features
 
 - Create a user account.
